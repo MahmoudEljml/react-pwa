@@ -63,7 +63,7 @@ function App() {
             margin: '20px'
           }}
         >
-          Install App To Home Screen asd
+          Install App To Home Screen zxc
         </button>
       )}
     </div>
